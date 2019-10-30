@@ -1,0 +1,36 @@
+* {
+   /*box-sizing: border-box;*/
+}
+
+.container {
+  /*border: 5px solid red;*/
+  /*box-sizing: border-box;*/
+  padding: 30px;
+}
+
+/*.col-both{
+	margin-top: 20px;
+}*/
+
+.col-md-4 {
+	align-self: flex-start;
+	/*border: 1px solid black;*/
+
+}
+
+.col-md-8 {
+	margin-top: 25px;
+	/*border: 1px solid black;*/
+
+
+}
+
+.my-jumbotron {
+	height: 35%;
+	width: 80%;
+	margin-top: 25px;
+	margin-left: 45px;
+	al: : center;
+    /*padding-top: 48px;
+    padding-bottom: 30px;*/
+}
